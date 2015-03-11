@@ -30,3 +30,6 @@ rvm:
   - 1.9.3
   - 1.8.7
 sudo: false
+branches:
+  only:
+    - test_ruby_against_2.1.5
