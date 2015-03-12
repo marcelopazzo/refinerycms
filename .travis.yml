@@ -32,4 +32,4 @@ rvm:
 sudo: false
 branches:
   only:
-    - test_ruby_against_2.1.5
+    - test_build
